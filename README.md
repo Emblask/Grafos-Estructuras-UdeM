@@ -26,7 +26,7 @@ Las principales funcionalidades incluidas son:
 Guardar el archivo con el código (por ejemplo, **grafo.py**) y ejecútarlo en la terminal con:
 
 ```bash
-python grafo.py
+python Grafos.py
 ```
 
 Al ejecutar el script, el programa:
